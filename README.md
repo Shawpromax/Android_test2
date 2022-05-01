@@ -218,7 +218,7 @@ plugins {
 ```
 
 - 9.运行结果如下
-- - ![image9](https://github.com/Shawpromax/images/blob/main/2_7.jpg)
+- ![image9](https://github.com/Shawpromax/images/blob/main/2_7.jpg)
   
 
 
